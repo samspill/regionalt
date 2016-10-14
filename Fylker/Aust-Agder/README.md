@@ -28,3 +28,15 @@
 
 <a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Aust-Agder/Aust-Agder Bruttoprodukt  sysselsatt (1000 kr) (linjer).png">![Foo](Aust-Agder Bruttoprodukt  sysselsatt (1000 kr) (linjer).png)</a>
 
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Aust-Agder/Aust-Agder Samlet bevilgning for nye nye prosjekter2010_2016.png">![Foo](Aust-Agder Samlet bevilgning for nye nye prosjekter2010_2016.png)</a>
+
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Aust-Agder/Aust-Agder. Instituttsektor Største aktiviteter innvilget nye prosjekter2010_2015.png">![Foo](Aust-Agder. Instituttsektor Største aktiviteter innvilget nye prosjekter2010_2015.png)</a>
+
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Aust-Agder/Aust-Agder. Næringsliv Største aktiviteter innvilget nye prosjekter2010_2015.png">![Foo](Aust-Agder. Næringsliv Største aktiviteter innvilget nye prosjekter2010_2015.png)</a>
+
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Aust-Agder/Aust-Agder. UoH-sektor Største aktiviteter innvilget nye prosjekter2010_2015.png">![Foo](Aust-Agder. UoH-sektor Største aktiviteter innvilget nye prosjekter2010_2015.png)</a>
+
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Aust-Agder/Aust-Agder. Øvrige Største aktiviteter innvilget nye prosjekter2010_2015.png">![Foo](Aust-Agder. Øvrige Største aktiviteter innvilget nye prosjekter2010_2015.png)</a>
+
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Aust-Agder/Aust-Agder. NIFU FoU årsverk1990_2013.png">![Foo](Aust-Agder. NIFU FoU årsverk1990_2013.png)</a>
+

@@ -36,3 +36,13 @@
 
 <a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Hele landet/BIA Innvilget første halvår til aktive prosjekter (linjer).png">![Foo](BIA Innvilget første halvår til aktive prosjekter (linjer).png)</a>
 
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Hele landet/Hele landet Samlet bevilgning for nye nye prosjekter2010_2016.png">![Foo](Hele landet Samlet bevilgning for nye nye prosjekter2010_2016.png)</a>
+
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Hele landet/Hele landet. Instituttsektor Største aktiviteter innvilget nye prosjekter2010_2015.png">![Foo](Hele landet. Instituttsektor Største aktiviteter innvilget nye prosjekter2010_2015.png)</a>
+
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Hele landet/Hele landet. Næringsliv Største aktiviteter innvilget nye prosjekter2010_2015.png">![Foo](Hele landet. Næringsliv Største aktiviteter innvilget nye prosjekter2010_2015.png)</a>
+
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Hele landet/Hele landet. UoH-sektor Største aktiviteter innvilget nye prosjekter2010_2015.png">![Foo](Hele landet. UoH-sektor Største aktiviteter innvilget nye prosjekter2010_2015.png)</a>
+
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Hele landet/Hele landet. Øvrige Største aktiviteter innvilget nye prosjekter2010_2015.png">![Foo](Hele landet. Øvrige Største aktiviteter innvilget nye prosjekter2010_2015.png)</a>
+

@@ -24,3 +24,17 @@
 
 <a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Troms/Troms Sysselsatte (tusen) (linjer).png">![Foo](Troms Sysselsatte (tusen) (linjer).png)</a>
 
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Troms/Troms Samlet bevilgning for nye nye prosjekter2010_2016.png">![Foo](Troms Samlet bevilgning for nye nye prosjekter2010_2016.png)</a>
+
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Troms/Troms. Instituttsektor Største aktiviteter innvilget nye prosjekter2010_2015.png">![Foo](Troms. Instituttsektor Største aktiviteter innvilget nye prosjekter2010_2015.png)</a>
+
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Troms/Troms. Næringsliv Største aktiviteter innvilget nye prosjekter2010_2015.png">![Foo](Troms. Næringsliv Største aktiviteter innvilget nye prosjekter2010_2015.png)</a>
+
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Troms/Troms. UoH-sektor Største aktiviteter innvilget nye prosjekter2010_2015.png">![Foo](Troms. UoH-sektor Største aktiviteter innvilget nye prosjekter2010_2015.png)</a>
+
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Troms/Troms. Øvrige Største aktiviteter innvilget nye prosjekter2010_2015.png">![Foo](Troms. Øvrige Største aktiviteter innvilget nye prosjekter2010_2015.png)</a>
+
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Troms/Troms. NIFU FoU utgifter per sektor 1990_2013.png">![Foo](Troms. NIFU FoU utgifter per sektor 1990_2013.png)</a>
+
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Troms/Troms. NIFU FoU årsverk1990_2013.png">![Foo](Troms. NIFU FoU årsverk1990_2013.png)</a>
+

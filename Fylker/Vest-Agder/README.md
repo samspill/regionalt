@@ -24,3 +24,15 @@
 
 <a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Vest-Agder/Vest-Agder Sysselsatte (tusen) (linjer).png">![Foo](Vest-Agder Sysselsatte (tusen) (linjer).png)</a>
 
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Vest-Agder/Vest-Agder Samlet bevilgning for nye nye prosjekter2010_2016.png">![Foo](Vest-Agder Samlet bevilgning for nye nye prosjekter2010_2016.png)</a>
+
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Vest-Agder/Vest-Agder. Instituttsektor Største aktiviteter innvilget nye prosjekter2010_2015.png">![Foo](Vest-Agder. Instituttsektor Største aktiviteter innvilget nye prosjekter2010_2015.png)</a>
+
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Vest-Agder/Vest-Agder. Næringsliv Største aktiviteter innvilget nye prosjekter2010_2015.png">![Foo](Vest-Agder. Næringsliv Største aktiviteter innvilget nye prosjekter2010_2015.png)</a>
+
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Vest-Agder/Vest-Agder. UoH-sektor Største aktiviteter innvilget nye prosjekter2010_2015.png">![Foo](Vest-Agder. UoH-sektor Største aktiviteter innvilget nye prosjekter2010_2015.png)</a>
+
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Vest-Agder/Vest-Agder. Øvrige Største aktiviteter innvilget nye prosjekter2010_2015.png">![Foo](Vest-Agder. Øvrige Største aktiviteter innvilget nye prosjekter2010_2015.png)</a>
+
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Vest-Agder/Vest-Agder. NIFU FoU årsverk1990_2013.png">![Foo](Vest-Agder. NIFU FoU årsverk1990_2013.png)</a>
+

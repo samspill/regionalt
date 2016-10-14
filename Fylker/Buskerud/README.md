@@ -36,3 +36,17 @@
 
 <a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Buskerud/Buskerud Bruttoprodukt  sysselsatt (1000 kr) (linjer).png">![Foo](Buskerud Bruttoprodukt  sysselsatt (1000 kr) (linjer).png)</a>
 
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Buskerud/Buskerud Samlet bevilgning for nye nye prosjekter2010_2016.png">![Foo](Buskerud Samlet bevilgning for nye nye prosjekter2010_2016.png)</a>
+
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Buskerud/Buskerud. Instituttsektor Største aktiviteter innvilget nye prosjekter2010_2015.png">![Foo](Buskerud. Instituttsektor Største aktiviteter innvilget nye prosjekter2010_2015.png)</a>
+
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Buskerud/Buskerud. Næringsliv Største aktiviteter innvilget nye prosjekter2010_2015.png">![Foo](Buskerud. Næringsliv Største aktiviteter innvilget nye prosjekter2010_2015.png)</a>
+
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Buskerud/Buskerud. UoH-sektor Største aktiviteter innvilget nye prosjekter2010_2015.png">![Foo](Buskerud. UoH-sektor Største aktiviteter innvilget nye prosjekter2010_2015.png)</a>
+
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Buskerud/Buskerud. Øvrige Største aktiviteter innvilget nye prosjekter2010_2015.png">![Foo](Buskerud. Øvrige Største aktiviteter innvilget nye prosjekter2010_2015.png)</a>
+
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Buskerud/Buskerud. NIFU FoU utgifter per sektor 1990_2013.png">![Foo](Buskerud. NIFU FoU utgifter per sektor 1990_2013.png)</a>
+
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Buskerud/Buskerud. NIFU FoU årsverk1990_2013.png">![Foo](Buskerud. NIFU FoU årsverk1990_2013.png)</a>
+

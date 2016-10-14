@@ -32,3 +32,17 @@
 
 <a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Østfold/Østfold Sysselsatte (tusen) (linjer).png">![Foo](Østfold Sysselsatte (tusen) (linjer).png)</a>
 
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Østfold/Østfold Samlet bevilgning for nye nye prosjekter2010_2016.png">![Foo](Østfold Samlet bevilgning for nye nye prosjekter2010_2016.png)</a>
+
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Østfold/Østfold. Instituttsektor Største aktiviteter innvilget nye prosjekter2010_2015.png">![Foo](Østfold. Instituttsektor Største aktiviteter innvilget nye prosjekter2010_2015.png)</a>
+
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Østfold/Østfold. Næringsliv Største aktiviteter innvilget nye prosjekter2010_2015.png">![Foo](Østfold. Næringsliv Største aktiviteter innvilget nye prosjekter2010_2015.png)</a>
+
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Østfold/Østfold. UoH-sektor Største aktiviteter innvilget nye prosjekter2010_2015.png">![Foo](Østfold. UoH-sektor Største aktiviteter innvilget nye prosjekter2010_2015.png)</a>
+
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Østfold/Østfold. Øvrige Største aktiviteter innvilget nye prosjekter2010_2015.png">![Foo](Østfold. Øvrige Største aktiviteter innvilget nye prosjekter2010_2015.png)</a>
+
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Østfold/Østfold. NIFU FoU utgifter per sektor 1990_2013.png">![Foo](Østfold. NIFU FoU utgifter per sektor 1990_2013.png)</a>
+
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Østfold/Østfold. NIFU FoU årsverk1990_2013.png">![Foo](Østfold. NIFU FoU årsverk1990_2013.png)</a>
+

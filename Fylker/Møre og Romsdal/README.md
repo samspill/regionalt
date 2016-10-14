@@ -32,3 +32,17 @@
 
 <a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Møre og Romsdal/Møre og Romsdal Sysselsatte (tusen) (linjer).png">![Foo](Møre og Romsdal Sysselsatte (tusen) (linjer).png)</a>
 
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Møre og Romsdal/Møre og Romsdal Samlet bevilgning for nye nye prosjekter2010_2016.png">![Foo](Møre og Romsdal Samlet bevilgning for nye nye prosjekter2010_2016.png)</a>
+
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Møre og Romsdal/Møre og Romsdal. Instituttsektor Største aktiviteter innvilget nye prosjekter2010_2015.png">![Foo](Møre og Romsdal. Instituttsektor Største aktiviteter innvilget nye prosjekter2010_2015.png)</a>
+
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Møre og Romsdal/Møre og Romsdal. Næringsliv Største aktiviteter innvilget nye prosjekter2010_2015.png">![Foo](Møre og Romsdal. Næringsliv Største aktiviteter innvilget nye prosjekter2010_2015.png)</a>
+
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Møre og Romsdal/Møre og Romsdal. UoH-sektor Største aktiviteter innvilget nye prosjekter2010_2015.png">![Foo](Møre og Romsdal. UoH-sektor Største aktiviteter innvilget nye prosjekter2010_2015.png)</a>
+
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Møre og Romsdal/Møre og Romsdal. Øvrige Største aktiviteter innvilget nye prosjekter2010_2015.png">![Foo](Møre og Romsdal. Øvrige Største aktiviteter innvilget nye prosjekter2010_2015.png)</a>
+
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Møre og Romsdal/Møre og Romsdal. NIFU FoU utgifter per sektor 1990_2013.png">![Foo](Møre og Romsdal. NIFU FoU utgifter per sektor 1990_2013.png)</a>
+
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Møre og Romsdal/Møre og Romsdal. NIFU FoU årsverk1990_2013.png">![Foo](Møre og Romsdal. NIFU FoU årsverk1990_2013.png)</a>
+

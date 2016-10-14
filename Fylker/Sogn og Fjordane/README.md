@@ -32,3 +32,17 @@
 
 <a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Sogn og Fjordane/Sogn og Fjordane Sysselsatte (tusen) (linjer).png">![Foo](Sogn og Fjordane Sysselsatte (tusen) (linjer).png)</a>
 
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Sogn og Fjordane/Sogn og Fjordane Samlet bevilgning for nye nye prosjekter2010_2016.png">![Foo](Sogn og Fjordane Samlet bevilgning for nye nye prosjekter2010_2016.png)</a>
+
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Sogn og Fjordane/Sogn og Fjordane. Instituttsektor Største aktiviteter innvilget nye prosjekter2010_2015.png">![Foo](Sogn og Fjordane. Instituttsektor Største aktiviteter innvilget nye prosjekter2010_2015.png)</a>
+
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Sogn og Fjordane/Sogn og Fjordane. Næringsliv Største aktiviteter innvilget nye prosjekter2010_2015.png">![Foo](Sogn og Fjordane. Næringsliv Største aktiviteter innvilget nye prosjekter2010_2015.png)</a>
+
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Sogn og Fjordane/Sogn og Fjordane. UoH-sektor Største aktiviteter innvilget nye prosjekter2010_2015.png">![Foo](Sogn og Fjordane. UoH-sektor Største aktiviteter innvilget nye prosjekter2010_2015.png)</a>
+
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Sogn og Fjordane/Sogn og Fjordane. Øvrige Største aktiviteter innvilget nye prosjekter2010_2015.png">![Foo](Sogn og Fjordane. Øvrige Største aktiviteter innvilget nye prosjekter2010_2015.png)</a>
+
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Sogn og Fjordane/Sogn og Fjordane. NIFU FoU utgifter per sektor 1990_2013.png">![Foo](Sogn og Fjordane. NIFU FoU utgifter per sektor 1990_2013.png)</a>
+
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Sogn og Fjordane/Sogn og Fjordane. NIFU FoU årsverk1990_2013.png">![Foo](Sogn og Fjordane. NIFU FoU årsverk1990_2013.png)</a>
+

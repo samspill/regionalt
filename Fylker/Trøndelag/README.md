@@ -24,3 +24,13 @@
 
 <a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Trøndelag/Trøndelag Sysselsatte (tusen) (linjer).png">![Foo](Trøndelag Sysselsatte (tusen) (linjer).png)</a>
 
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Trøndelag/Trøndelag Samlet bevilgning for nye nye prosjekter2010_2016.png">![Foo](Trøndelag Samlet bevilgning for nye nye prosjekter2010_2016.png)</a>
+
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Trøndelag/Trøndelag. Instituttsektor Største aktiviteter innvilget nye prosjekter2010_2015.png">![Foo](Trøndelag. Instituttsektor Største aktiviteter innvilget nye prosjekter2010_2015.png)</a>
+
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Trøndelag/Trøndelag. Næringsliv Største aktiviteter innvilget nye prosjekter2010_2015.png">![Foo](Trøndelag. Næringsliv Største aktiviteter innvilget nye prosjekter2010_2015.png)</a>
+
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Trøndelag/Trøndelag. UoH-sektor Største aktiviteter innvilget nye prosjekter2010_2015.png">![Foo](Trøndelag. UoH-sektor Største aktiviteter innvilget nye prosjekter2010_2015.png)</a>
+
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Trøndelag/Trøndelag. Øvrige Største aktiviteter innvilget nye prosjekter2010_2015.png">![Foo](Trøndelag. Øvrige Største aktiviteter innvilget nye prosjekter2010_2015.png)</a>
+

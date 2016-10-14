@@ -20,3 +20,13 @@
 
 <a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Ukjent/Ukjent Sysselsatte (tusen) (linjer).png">![Foo](Ukjent Sysselsatte (tusen) (linjer).png)</a>
 
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Ukjent/Ukjent Samlet bevilgning for nye nye prosjekter2010_2016.png">![Foo](Ukjent Samlet bevilgning for nye nye prosjekter2010_2016.png)</a>
+
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Ukjent/Ukjent. Instituttsektor Største aktiviteter innvilget nye prosjekter2010_2015.png">![Foo](Ukjent. Instituttsektor Største aktiviteter innvilget nye prosjekter2010_2015.png)</a>
+
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Ukjent/Ukjent. Næringsliv Største aktiviteter innvilget nye prosjekter2010_2015.png">![Foo](Ukjent. Næringsliv Største aktiviteter innvilget nye prosjekter2010_2015.png)</a>
+
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Ukjent/Ukjent. UoH-sektor Største aktiviteter innvilget nye prosjekter2010_2015.png">![Foo](Ukjent. UoH-sektor Største aktiviteter innvilget nye prosjekter2010_2015.png)</a>
+
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Ukjent/Ukjent. Øvrige Største aktiviteter innvilget nye prosjekter2010_2015.png">![Foo](Ukjent. Øvrige Største aktiviteter innvilget nye prosjekter2010_2015.png)</a>
+

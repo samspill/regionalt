@@ -28,3 +28,17 @@
 
 <a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Finnmark/Finnmark Bruttoprodukt  sysselsatt (1000 kr) (linjer).png">![Foo](Finnmark Bruttoprodukt  sysselsatt (1000 kr) (linjer).png)</a>
 
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Finnmark/Finnmark Samlet bevilgning for nye nye prosjekter2010_2016.png">![Foo](Finnmark Samlet bevilgning for nye nye prosjekter2010_2016.png)</a>
+
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Finnmark/Finnmark. Instituttsektor Største aktiviteter innvilget nye prosjekter2010_2015.png">![Foo](Finnmark. Instituttsektor Største aktiviteter innvilget nye prosjekter2010_2015.png)</a>
+
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Finnmark/Finnmark. Næringsliv Største aktiviteter innvilget nye prosjekter2010_2015.png">![Foo](Finnmark. Næringsliv Største aktiviteter innvilget nye prosjekter2010_2015.png)</a>
+
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Finnmark/Finnmark. UoH-sektor Største aktiviteter innvilget nye prosjekter2010_2015.png">![Foo](Finnmark. UoH-sektor Største aktiviteter innvilget nye prosjekter2010_2015.png)</a>
+
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Finnmark/Finnmark. Øvrige Største aktiviteter innvilget nye prosjekter2010_2015.png">![Foo](Finnmark. Øvrige Største aktiviteter innvilget nye prosjekter2010_2015.png)</a>
+
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Finnmark/Finnmark. NIFU FoU utgifter per sektor 1990_2013.png">![Foo](Finnmark. NIFU FoU utgifter per sektor 1990_2013.png)</a>
+
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Finnmark/Finnmark. NIFU FoU årsverk1990_2013.png">![Foo](Finnmark. NIFU FoU årsverk1990_2013.png)</a>
+

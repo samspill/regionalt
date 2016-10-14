@@ -32,3 +32,17 @@
 
 <a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Hordaland/Hordaland Sysselsatte (tusen) (linjer).png">![Foo](Hordaland Sysselsatte (tusen) (linjer).png)</a>
 
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Hordaland/Hordaland Samlet bevilgning for nye nye prosjekter2010_2016.png">![Foo](Hordaland Samlet bevilgning for nye nye prosjekter2010_2016.png)</a>
+
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Hordaland/Hordaland. Instituttsektor Største aktiviteter innvilget nye prosjekter2010_2015.png">![Foo](Hordaland. Instituttsektor Største aktiviteter innvilget nye prosjekter2010_2015.png)</a>
+
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Hordaland/Hordaland. Næringsliv Største aktiviteter innvilget nye prosjekter2010_2015.png">![Foo](Hordaland. Næringsliv Største aktiviteter innvilget nye prosjekter2010_2015.png)</a>
+
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Hordaland/Hordaland. UoH-sektor Største aktiviteter innvilget nye prosjekter2010_2015.png">![Foo](Hordaland. UoH-sektor Største aktiviteter innvilget nye prosjekter2010_2015.png)</a>
+
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Hordaland/Hordaland. Øvrige Største aktiviteter innvilget nye prosjekter2010_2015.png">![Foo](Hordaland. Øvrige Største aktiviteter innvilget nye prosjekter2010_2015.png)</a>
+
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Hordaland/Hordaland. NIFU FoU utgifter per sektor 1990_2013.png">![Foo](Hordaland. NIFU FoU utgifter per sektor 1990_2013.png)</a>
+
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Hordaland/Hordaland. NIFU FoU årsverk1990_2013.png">![Foo](Hordaland. NIFU FoU årsverk1990_2013.png)</a>
+

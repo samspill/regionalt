@@ -32,3 +32,17 @@
 
 <a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Rogaland/Rogaland Sysselsatte (tusen) (linjer).png">![Foo](Rogaland Sysselsatte (tusen) (linjer).png)</a>
 
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Rogaland/Rogaland Samlet bevilgning for nye nye prosjekter2010_2016.png">![Foo](Rogaland Samlet bevilgning for nye nye prosjekter2010_2016.png)</a>
+
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Rogaland/Rogaland. Instituttsektor Største aktiviteter innvilget nye prosjekter2010_2015.png">![Foo](Rogaland. Instituttsektor Største aktiviteter innvilget nye prosjekter2010_2015.png)</a>
+
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Rogaland/Rogaland. Næringsliv Største aktiviteter innvilget nye prosjekter2010_2015.png">![Foo](Rogaland. Næringsliv Største aktiviteter innvilget nye prosjekter2010_2015.png)</a>
+
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Rogaland/Rogaland. UoH-sektor Største aktiviteter innvilget nye prosjekter2010_2015.png">![Foo](Rogaland. UoH-sektor Største aktiviteter innvilget nye prosjekter2010_2015.png)</a>
+
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Rogaland/Rogaland. Øvrige Største aktiviteter innvilget nye prosjekter2010_2015.png">![Foo](Rogaland. Øvrige Største aktiviteter innvilget nye prosjekter2010_2015.png)</a>
+
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Rogaland/Rogaland. NIFU FoU utgifter per sektor 1990_2013.png">![Foo](Rogaland. NIFU FoU utgifter per sektor 1990_2013.png)</a>
+
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Rogaland/Rogaland. NIFU FoU årsverk1990_2013.png">![Foo](Rogaland. NIFU FoU årsverk1990_2013.png)</a>
+
