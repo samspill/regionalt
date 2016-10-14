@@ -1,62 +1,62 @@
 # NFR Regional statistikk
 
-<a href="https://github.com/samspill/regionalt/tree/master/Fylker/Nord-Trøndelag">![Foo](Nord-Trøndelag)</a>
+[Hele landet](https://github.com/samspill/regionalt/tree/master/Fylker/Hele landet)
 
-<a href="https://github.com/samspill/regionalt/tree/master/Fylker/Nord-Trøndelag">![Foo](Nord-Trøndelag)</a>
+[Akershus](https://github.com/samspill/regionalt/tree/master/Fylker/Akershus)
 
-<a href="https://github.com/samspill/regionalt/tree/master/Fylker/Nord-Trøndelag">![Foo](Nord-Trøndelag)</a>
+[Aust-Agder](https://github.com/samspill/regionalt/tree/master/Fylker/Aust-Agder)
 
-<a href="https://github.com/samspill/regionalt/tree/master/Fylker/Nord-Trøndelag">![Foo](Nord-Trøndelag)</a>
+[Buskerud](https://github.com/samspill/regionalt/tree/master/Fylker/Buskerud)
 
-<a href="https://github.com/samspill/regionalt/tree/master/Fylker/Nord-Trøndelag">![Foo](Nord-Trøndelag)</a>
+[Finnmark](https://github.com/samspill/regionalt/tree/master/Fylker/Finnmark)
 
-<a href="https://github.com/samspill/regionalt/tree/master/Fylker/Nord-Trøndelag">![Foo](Nord-Trøndelag)</a>
+[Hedmark](https://github.com/samspill/regionalt/tree/master/Fylker/Hedmark)
 
-<a href="https://github.com/samspill/regionalt/tree/master/Fylker/Nord-Trøndelag">![Foo](Nord-Trøndelag)</a>
+[Hordaland](https://github.com/samspill/regionalt/tree/master/Fylker/Hordaland)
 
-<a href="https://github.com/samspill/regionalt/tree/master/Fylker/Nord-Trøndelag">![Foo](Nord-Trøndelag)</a>
+[Møre og Romsdal](https://github.com/samspill/regionalt/tree/master/Fylker/Møre og Romsdal)
 
-<a href="https://github.com/samspill/regionalt/tree/master/Fylker/Nord-Trøndelag">![Foo](Nord-Trøndelag)</a>
+[Nordland](https://github.com/samspill/regionalt/tree/master/Fylker/Nordland)
 
-<a href="https://github.com/samspill/regionalt/tree/master/Fylker/Nord-Trøndelag">![Foo](Nord-Trøndelag)</a>
+[Oppland](https://github.com/samspill/regionalt/tree/master/Fylker/Oppland)
 
-<a href="https://github.com/samspill/regionalt/tree/master/Fylker/Nord-Trøndelag">![Foo](Nord-Trøndelag)</a>
+[Oslo](https://github.com/samspill/regionalt/tree/master/Fylker/Oslo)
 
-<a href="https://github.com/samspill/regionalt/tree/master/Fylker/Nord-Trøndelag">![Foo](Nord-Trøndelag)</a>
+[Rogaland](https://github.com/samspill/regionalt/tree/master/Fylker/Rogaland)
 
-<a href="https://github.com/samspill/regionalt/tree/master/Fylker/Nord-Trøndelag">![Foo](Nord-Trøndelag)</a>
+[Sogn og Fjordane](https://github.com/samspill/regionalt/tree/master/Fylker/Sogn og Fjordane)
 
-<a href="https://github.com/samspill/regionalt/tree/master/Fylker/Nord-Trøndelag">![Foo](Nord-Trøndelag)</a>
+[Svalbard](https://github.com/samspill/regionalt/tree/master/Fylker/Svalbard)
 
-<a href="https://github.com/samspill/regionalt/tree/master/Fylker/Nord-Trøndelag">![Foo](Nord-Trøndelag)</a>
+[Telemark](https://github.com/samspill/regionalt/tree/master/Fylker/Telemark)
 
-<a href="https://github.com/samspill/regionalt/tree/master/Fylker/Nord-Trøndelag">![Foo](Nord-Trøndelag)</a>
+[Troms](https://github.com/samspill/regionalt/tree/master/Fylker/Troms)
 
-<a href="https://github.com/samspill/regionalt/tree/master/Fylker/Nord-Trøndelag">![Foo](Nord-Trøndelag)</a>
+[Trøndelag](https://github.com/samspill/regionalt/tree/master/Fylker/Trøndelag)
 
-<a href="https://github.com/samspill/regionalt/tree/master/Fylker/Nord-Trøndelag">![Foo](Nord-Trøndelag)</a>
+[Ukjent](https://github.com/samspill/regionalt/tree/master/Fylker/Ukjent)
 
-<a href="https://github.com/samspill/regionalt/tree/master/Fylker/Nord-Trøndelag">![Foo](Nord-Trøndelag)</a>
+[Vest-Agder](https://github.com/samspill/regionalt/tree/master/Fylker/Vest-Agder)
 
-<a href="https://github.com/samspill/regionalt/tree/master/Fylker/Nord-Trøndelag">![Foo](Nord-Trøndelag)</a>
+[Vestfold](https://github.com/samspill/regionalt/tree/master/Fylker/Vestfold)
 
-<a href="https://github.com/samspill/regionalt/tree/master/Fylker/Nord-Trøndelag">![Foo](Nord-Trøndelag)</a>
+[Østfold](https://github.com/samspill/regionalt/tree/master/Fylker/Østfold)
 
-<a href="https://github.com/samspill/regionalt/tree/master/Fylker/Nord-Trøndelag">![Foo](Nord-Trøndelag)</a>
+[Agderfylkene](https://github.com/samspill/regionalt/tree/master/Fylker/Agderfylkene)
 
-<a href="https://github.com/samspill/regionalt/tree/master/Fylker/Nord-Trøndelag">![Foo](Nord-Trøndelag)</a>
+[Havområder](https://github.com/samspill/regionalt/tree/master/Fylker/Havområder)
 
-<a href="https://github.com/samspill/regionalt/tree/master/Fylker/Nord-Trøndelag">![Foo](Nord-Trøndelag)</a>
+[Ikke bosatt i Norge](https://github.com/samspill/regionalt/tree/master/Fylker/Ikke bosatt i Norge)
 
-<a href="https://github.com/samspill/regionalt/tree/master/Fylker/Nord-Trøndelag">![Foo](Nord-Trøndelag)</a>
+[Jan Mayen](https://github.com/samspill/regionalt/tree/master/Fylker/Jan Mayen)
 
-<a href="https://github.com/samspill/regionalt/tree/master/Fylker/Nord-Trøndelag">![Foo](Nord-Trøndelag)</a>
+[Kontinentalsokkelen](https://github.com/samspill/regionalt/tree/master/Fylker/Kontinentalsokkelen)
 
-<a href="https://github.com/samspill/regionalt/tree/master/Fylker/Nord-Trøndelag">![Foo](Nord-Trøndelag)</a>
+[Utlandet](https://github.com/samspill/regionalt/tree/master/Fylker/Utlandet)
 
-<a href="https://github.com/samspill/regionalt/tree/master/Fylker/Nord-Trøndelag">![Foo](Nord-Trøndelag)</a>
+[Agder counties](https://github.com/samspill/regionalt/tree/master/Fylker/Agder counties)
 
-<a href="https://github.com/samspill/regionalt/tree/master/Fylker/Nord-Trøndelag">![Foo](Nord-Trøndelag)</a>
+[Sør-Trøndelag](https://github.com/samspill/regionalt/tree/master/Fylker/Sør-Trøndelag)
 
-<a href="https://github.com/samspill/regionalt/tree/master/Fylker/Nord-Trøndelag">![Foo](Nord-Trøndelag)</a>
+[Nord-Trøndelag](https://github.com/samspill/regionalt/tree/master/Fylker/Nord-Trøndelag)
 
