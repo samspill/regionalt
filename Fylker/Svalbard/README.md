@@ -1,5 +1,7 @@
 # Svalbard
 
+Tips: Klikk på figur for å åpne i full størrelse
+
 <a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Svalbard/Svalbard Næringsområder (merking) Andel i prosent av sum merket beløp for alle NFR prosjekter startet i året (heatmap).png">![Foo](Svalbard Næringsområder (merking) Andel i prosent av sum merket beløp for alle NFR prosjekter startet i året (heatmap).png)</a>
 
 <a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Svalbard/Svalbard Næringsområder (merking) Andel i prosent av sum merket beløp for alle NFR prosjekter startet i året (linjer).png">![Foo](Svalbard Næringsområder (merking) Andel i prosent av sum merket beløp for alle NFR prosjekter startet i året (linjer).png)</a>
@@ -33,4 +35,6 @@
 <a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Svalbard/Svalbard. NIFU FoU utgifter per sektor 1990_2013.png">![Foo](Svalbard. NIFU FoU utgifter per sektor 1990_2013.png)</a>
 
 <a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Svalbard/Svalbard. NIFU FoU årsverk1990_2013.png">![Foo](Svalbard. NIFU FoU årsverk1990_2013.png)</a>
+
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Svalbard/Svalbard. NIFU FoU utgifter per sektor 1990_2013.png">![Foo](Svalbard. NIFU FoU utgifter per sektor 1990_2013.png)</a>
 

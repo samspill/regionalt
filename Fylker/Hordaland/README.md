@@ -1,5 +1,7 @@
 # Hordaland
 
+Tips: Klikk på figur for å åpne i full størrelse
+
 <a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Hordaland/Hordaland Næringsområder (merking) Andel i prosent av sum merket beløp for alle NFR prosjekter startet i året (heatmap).png">![Foo](Hordaland Næringsområder (merking) Andel i prosent av sum merket beløp for alle NFR prosjekter startet i året (heatmap).png)</a>
 
 <a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Hordaland/Hordaland Næringsområder (merking) Andel i prosent av sum merket beløp for alle NFR prosjekter startet i året (linjer).png">![Foo](Hordaland Næringsområder (merking) Andel i prosent av sum merket beløp for alle NFR prosjekter startet i året (linjer).png)</a>
@@ -45,4 +47,6 @@
 <a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Hordaland/Hordaland. NIFU FoU utgifter per sektor 1990_2013.png">![Foo](Hordaland. NIFU FoU utgifter per sektor 1990_2013.png)</a>
 
 <a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Hordaland/Hordaland. NIFU FoU årsverk1990_2013.png">![Foo](Hordaland. NIFU FoU årsverk1990_2013.png)</a>
+
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Hordaland/Hordaland. NIFU FoU utgifter per sektor 1990_2013.png">![Foo](Hordaland. NIFU FoU utgifter per sektor 1990_2013.png)</a>
 

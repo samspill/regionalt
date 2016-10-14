@@ -1,5 +1,7 @@
 # Vest-Agder
 
+Tips: Klikk på figur for å åpne i full størrelse
+
 <a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Vest-Agder/Vest-Agder Næringsområder (merking) Andel i prosent av sum merket beløp for alle NFR prosjekter startet i året (heatmap).png">![Foo](Vest-Agder Næringsområder (merking) Andel i prosent av sum merket beløp for alle NFR prosjekter startet i året (heatmap).png)</a>
 
 <a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Vest-Agder/Vest-Agder Næringsområder (merking) Andel i prosent av sum merket beløp for alle NFR prosjekter startet i året (linjer).png">![Foo](Vest-Agder Næringsområder (merking) Andel i prosent av sum merket beløp for alle NFR prosjekter startet i året (linjer).png)</a>

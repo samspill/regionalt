@@ -1,5 +1,7 @@
 # Vestfold
 
+Tips: Klikk på figur for å åpne i full størrelse
+
 <a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Vestfold/Vestfold Næringsområder (merking) Andel i prosent av sum merket beløp for alle NFR prosjekter startet i året (heatmap).png">![Foo](Vestfold Næringsområder (merking) Andel i prosent av sum merket beløp for alle NFR prosjekter startet i året (heatmap).png)</a>
 
 <a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Vestfold/Vestfold Næringsområder (merking) Andel i prosent av sum merket beløp for alle NFR prosjekter startet i året (linjer).png">![Foo](Vestfold Næringsområder (merking) Andel i prosent av sum merket beløp for alle NFR prosjekter startet i året (linjer).png)</a>
@@ -45,4 +47,6 @@
 <a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Vestfold/Vestfold. NIFU FoU utgifter per sektor 1990_2013.png">![Foo](Vestfold. NIFU FoU utgifter per sektor 1990_2013.png)</a>
 
 <a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Vestfold/Vestfold. NIFU FoU årsverk1990_2013.png">![Foo](Vestfold. NIFU FoU årsverk1990_2013.png)</a>
+
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Vestfold/Vestfold. NIFU FoU utgifter per sektor 1990_2013.png">![Foo](Vestfold. NIFU FoU utgifter per sektor 1990_2013.png)</a>
 

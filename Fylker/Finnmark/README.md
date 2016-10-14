@@ -1,5 +1,7 @@
 # Finnmark
 
+Tips: Klikk på figur for å åpne i full størrelse
+
 <a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Finnmark/Finnmark Næringsområder (merking) Andel i prosent av sum merket beløp for alle NFR prosjekter startet i året (heatmap).png">![Foo](Finnmark Næringsområder (merking) Andel i prosent av sum merket beløp for alle NFR prosjekter startet i året (heatmap).png)</a>
 
 <a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Finnmark/Finnmark Næringsområder (merking) Andel i prosent av sum merket beløp for alle NFR prosjekter startet i året (linjer).png">![Foo](Finnmark Næringsområder (merking) Andel i prosent av sum merket beløp for alle NFR prosjekter startet i året (linjer).png)</a>
@@ -41,4 +43,6 @@
 <a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Finnmark/Finnmark. NIFU FoU utgifter per sektor 1990_2013.png">![Foo](Finnmark. NIFU FoU utgifter per sektor 1990_2013.png)</a>
 
 <a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Finnmark/Finnmark. NIFU FoU årsverk1990_2013.png">![Foo](Finnmark. NIFU FoU årsverk1990_2013.png)</a>
+
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Finnmark/Finnmark. NIFU FoU utgifter per sektor 1990_2013.png">![Foo](Finnmark. NIFU FoU utgifter per sektor 1990_2013.png)</a>
 

@@ -1,5 +1,7 @@
 # Hele landet
 
+Tips: Klikk på figur for å åpne i full størrelse
+
 <a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Hele landet/BIA Innvilget til aktive prosjekter (mill) (heatmap).png">![Foo](BIA Innvilget til aktive prosjekter (mill) (heatmap).png)</a>
 
 <a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Hele landet/BIA Innvilget til aktive prosjekter (mill) (linjer).png">![Foo](BIA Innvilget til aktive prosjekter (mill) (linjer).png)</a>

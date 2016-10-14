@@ -1,5 +1,7 @@
 # Havområder
 
+Tips: Klikk på figur for å åpne i full størrelse
+
 <a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Havområder/Havområder Andel av totalt antall sysselsatte i næringen som jobber i fylket (heatmap).png">![Foo](Havområder Andel av totalt antall sysselsatte i næringen som jobber i fylket (heatmap).png)</a>
 
 <a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Havområder/Havområder Andel av totalt antall sysselsatte i næringen som jobber i fylket (linjer).png">![Foo](Havområder Andel av totalt antall sysselsatte i næringen som jobber i fylket (linjer).png)</a>
