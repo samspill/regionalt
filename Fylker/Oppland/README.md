@@ -14,6 +14,20 @@ Tips: Klikk på figur for å åpne i full størrelse
 
 <a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Oppland/Oppland NFR og SF andel av totalt omsøkt eller innvilget beløp for nye prosjekter startet i året (linjer).png">![Foo](Oppland NFR og SF andel av totalt omsøkt eller innvilget beløp for nye prosjekter startet i året (linjer).png)</a>
 
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Oppland/Oppland Samlet bevilgning for nye nye prosjekter2010_2016.png">![Foo](Oppland Samlet bevilgning for nye nye prosjekter2010_2016.png)</a>
+
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Oppland/Oppland. Instituttsektor Største aktiviteter innvilget nye prosjekter2010_2015.png">![Foo](Oppland. Instituttsektor Største aktiviteter innvilget nye prosjekter2010_2015.png)</a>
+
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Oppland/Oppland. Næringsliv Største aktiviteter innvilget nye prosjekter2010_2015.png">![Foo](Oppland. Næringsliv Største aktiviteter innvilget nye prosjekter2010_2015.png)</a>
+
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Oppland/Oppland. UoH-sektor Største aktiviteter innvilget nye prosjekter2010_2015.png">![Foo](Oppland. UoH-sektor Største aktiviteter innvilget nye prosjekter2010_2015.png)</a>
+
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Oppland/Oppland. Øvrige Største aktiviteter innvilget nye prosjekter2010_2015.png">![Foo](Oppland. Øvrige Største aktiviteter innvilget nye prosjekter2010_2015.png)</a>
+
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Oppland/Oppland. NIFU FoU utgifter per sektor 1990_2013.png">![Foo](Oppland. NIFU FoU utgifter per sektor 1990_2013.png)</a>
+
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Oppland/Oppland. NIFU FoU årsverk1990_2013.png">![Foo](Oppland. NIFU FoU årsverk1990_2013.png)</a>
+
 <a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Oppland/Oppland NIFU FoU Årsverk og Beløp per Sektor (heatmap).png">![Foo](Oppland NIFU FoU Årsverk og Beløp per Sektor (heatmap).png)</a>
 
 <a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Oppland/Oppland NIFU FoU Årsverk og Beløp per Sektor (linjer).png">![Foo](Oppland NIFU FoU Årsverk og Beløp per Sektor (linjer).png)</a>
@@ -30,23 +44,17 @@ Tips: Klikk på figur for å åpne i full størrelse
 
 <a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Oppland/Oppland Bruttoprodukt (milliarder) (linjer).png">![Foo](Oppland Bruttoprodukt (milliarder) (linjer).png)</a>
 
-<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Oppland/Oppland Sysselsatte (tusen) (heatmap).png">![Foo](Oppland Sysselsatte (tusen) (heatmap).png)</a>
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Oppland/BIA Innvilget første halvår til aktive prosjekter (heatmap).png">![Foo](BIA Innvilget første halvår til aktive prosjekter (heatmap).png)</a>
 
-<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Oppland/Oppland Sysselsatte (tusen) (linjer).png">![Foo](Oppland Sysselsatte (tusen) (linjer).png)</a>
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Oppland/BIA Innvilget første halvår til aktive prosjekter (linjer).png">![Foo](BIA Innvilget første halvår til aktive prosjekter (linjer).png)</a>
 
-<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Oppland/Oppland Samlet bevilgning for nye nye prosjekter2010_2016.png">![Foo](Oppland Samlet bevilgning for nye nye prosjekter2010_2016.png)</a>
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Oppland/Oppland Bruttoprodukt per sysselsatt (1000 kr) (heatmap).png">![Foo](Oppland Bruttoprodukt per sysselsatt (1000 kr) (heatmap).png)</a>
 
-<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Oppland/Oppland. Instituttsektor Største aktiviteter innvilget nye prosjekter2010_2015.png">![Foo](Oppland. Instituttsektor Største aktiviteter innvilget nye prosjekter2010_2015.png)</a>
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Oppland/Oppland Bruttoprodukt per sysselsatt (1000 kr) (linjer).png">![Foo](Oppland Bruttoprodukt per sysselsatt (1000 kr) (linjer).png)</a>
 
-<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Oppland/Oppland. Næringsliv Største aktiviteter innvilget nye prosjekter2010_2015.png">![Foo](Oppland. Næringsliv Største aktiviteter innvilget nye prosjekter2010_2015.png)</a>
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Oppland/Oppland Sysselsatte fordelt på fagfelt (heatmap).png">![Foo](Oppland Sysselsatte fordelt på fagfelt (heatmap).png)</a>
 
-<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Oppland/Oppland. UoH-sektor Største aktiviteter innvilget nye prosjekter2010_2015.png">![Foo](Oppland. UoH-sektor Største aktiviteter innvilget nye prosjekter2010_2015.png)</a>
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Oppland/Oppland Sysselsatte fordelt på utdanningsnivå (heatmap).png">![Foo](Oppland Sysselsatte fordelt på utdanningsnivå (heatmap).png)</a>
 
-<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Oppland/Oppland. Øvrige Største aktiviteter innvilget nye prosjekter2010_2015.png">![Foo](Oppland. Øvrige Største aktiviteter innvilget nye prosjekter2010_2015.png)</a>
-
-<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Oppland/Oppland. NIFU FoU utgifter per sektor 1990_2013.png">![Foo](Oppland. NIFU FoU utgifter per sektor 1990_2013.png)</a>
-
-<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Oppland/Oppland. NIFU FoU årsverk1990_2013.png">![Foo](Oppland. NIFU FoU årsverk1990_2013.png)</a>
-
-<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Oppland/Oppland. NIFU FoU utgifter per sektor 1990_2013.png">![Foo](Oppland. NIFU FoU utgifter per sektor 1990_2013.png)</a>
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Oppland/Oppland Sysselsatte fordelt på utdanningsnivå (linjer).png">![Foo](Oppland Sysselsatte fordelt på utdanningsnivå (linjer).png)</a>
 

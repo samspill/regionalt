@@ -14,6 +14,20 @@ Tips: Klikk på figur for å åpne i full størrelse
 
 <a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Sogn og Fjordane/Sogn og Fjordane NFR og SF andel av totalt omsøkt eller innvilget beløp for nye prosjekter startet i året (linjer).png">![Foo](Sogn og Fjordane NFR og SF andel av totalt omsøkt eller innvilget beløp for nye prosjekter startet i året (linjer).png)</a>
 
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Sogn og Fjordane/Sogn og Fjordane Samlet bevilgning for nye nye prosjekter2010_2016.png">![Foo](Sogn og Fjordane Samlet bevilgning for nye nye prosjekter2010_2016.png)</a>
+
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Sogn og Fjordane/Sogn og Fjordane. Instituttsektor Største aktiviteter innvilget nye prosjekter2010_2015.png">![Foo](Sogn og Fjordane. Instituttsektor Største aktiviteter innvilget nye prosjekter2010_2015.png)</a>
+
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Sogn og Fjordane/Sogn og Fjordane. Næringsliv Største aktiviteter innvilget nye prosjekter2010_2015.png">![Foo](Sogn og Fjordane. Næringsliv Største aktiviteter innvilget nye prosjekter2010_2015.png)</a>
+
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Sogn og Fjordane/Sogn og Fjordane. UoH-sektor Største aktiviteter innvilget nye prosjekter2010_2015.png">![Foo](Sogn og Fjordane. UoH-sektor Største aktiviteter innvilget nye prosjekter2010_2015.png)</a>
+
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Sogn og Fjordane/Sogn og Fjordane. Øvrige Største aktiviteter innvilget nye prosjekter2010_2015.png">![Foo](Sogn og Fjordane. Øvrige Største aktiviteter innvilget nye prosjekter2010_2015.png)</a>
+
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Sogn og Fjordane/Sogn og Fjordane. NIFU FoU utgifter per sektor 1990_2013.png">![Foo](Sogn og Fjordane. NIFU FoU utgifter per sektor 1990_2013.png)</a>
+
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Sogn og Fjordane/Sogn og Fjordane. NIFU FoU årsverk1990_2013.png">![Foo](Sogn og Fjordane. NIFU FoU årsverk1990_2013.png)</a>
+
 <a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Sogn og Fjordane/Sogn og Fjordane NIFU FoU Årsverk og Beløp per Sektor (heatmap).png">![Foo](Sogn og Fjordane NIFU FoU Årsverk og Beløp per Sektor (heatmap).png)</a>
 
 <a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Sogn og Fjordane/Sogn og Fjordane NIFU FoU Årsverk og Beløp per Sektor (linjer).png">![Foo](Sogn og Fjordane NIFU FoU Årsverk og Beløp per Sektor (linjer).png)</a>
@@ -30,23 +44,17 @@ Tips: Klikk på figur for å åpne i full størrelse
 
 <a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Sogn og Fjordane/Sogn og Fjordane Bruttoprodukt (milliarder) (linjer).png">![Foo](Sogn og Fjordane Bruttoprodukt (milliarder) (linjer).png)</a>
 
-<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Sogn og Fjordane/Sogn og Fjordane Sysselsatte (tusen) (heatmap).png">![Foo](Sogn og Fjordane Sysselsatte (tusen) (heatmap).png)</a>
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Sogn og Fjordane/BIA Innvilget første halvår til aktive prosjekter (heatmap).png">![Foo](BIA Innvilget første halvår til aktive prosjekter (heatmap).png)</a>
 
-<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Sogn og Fjordane/Sogn og Fjordane Sysselsatte (tusen) (linjer).png">![Foo](Sogn og Fjordane Sysselsatte (tusen) (linjer).png)</a>
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Sogn og Fjordane/BIA Innvilget første halvår til aktive prosjekter (linjer).png">![Foo](BIA Innvilget første halvår til aktive prosjekter (linjer).png)</a>
 
-<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Sogn og Fjordane/Sogn og Fjordane Samlet bevilgning for nye nye prosjekter2010_2016.png">![Foo](Sogn og Fjordane Samlet bevilgning for nye nye prosjekter2010_2016.png)</a>
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Sogn og Fjordane/Sogn og Fjordane Bruttoprodukt per sysselsatt (1000 kr) (heatmap).png">![Foo](Sogn og Fjordane Bruttoprodukt per sysselsatt (1000 kr) (heatmap).png)</a>
 
-<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Sogn og Fjordane/Sogn og Fjordane. Instituttsektor Største aktiviteter innvilget nye prosjekter2010_2015.png">![Foo](Sogn og Fjordane. Instituttsektor Største aktiviteter innvilget nye prosjekter2010_2015.png)</a>
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Sogn og Fjordane/Sogn og Fjordane Bruttoprodukt per sysselsatt (1000 kr) (linjer).png">![Foo](Sogn og Fjordane Bruttoprodukt per sysselsatt (1000 kr) (linjer).png)</a>
 
-<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Sogn og Fjordane/Sogn og Fjordane. Næringsliv Største aktiviteter innvilget nye prosjekter2010_2015.png">![Foo](Sogn og Fjordane. Næringsliv Største aktiviteter innvilget nye prosjekter2010_2015.png)</a>
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Sogn og Fjordane/Sogn og Fjordane Sysselsatte fordelt på fagfelt (heatmap).png">![Foo](Sogn og Fjordane Sysselsatte fordelt på fagfelt (heatmap).png)</a>
 
-<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Sogn og Fjordane/Sogn og Fjordane. UoH-sektor Største aktiviteter innvilget nye prosjekter2010_2015.png">![Foo](Sogn og Fjordane. UoH-sektor Største aktiviteter innvilget nye prosjekter2010_2015.png)</a>
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Sogn og Fjordane/Sogn og Fjordane Sysselsatte fordelt på utdanningsnivå (heatmap).png">![Foo](Sogn og Fjordane Sysselsatte fordelt på utdanningsnivå (heatmap).png)</a>
 
-<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Sogn og Fjordane/Sogn og Fjordane. Øvrige Største aktiviteter innvilget nye prosjekter2010_2015.png">![Foo](Sogn og Fjordane. Øvrige Største aktiviteter innvilget nye prosjekter2010_2015.png)</a>
-
-<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Sogn og Fjordane/Sogn og Fjordane. NIFU FoU utgifter per sektor 1990_2013.png">![Foo](Sogn og Fjordane. NIFU FoU utgifter per sektor 1990_2013.png)</a>
-
-<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Sogn og Fjordane/Sogn og Fjordane. NIFU FoU årsverk1990_2013.png">![Foo](Sogn og Fjordane. NIFU FoU årsverk1990_2013.png)</a>
-
-<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Sogn og Fjordane/Sogn og Fjordane. NIFU FoU utgifter per sektor 1990_2013.png">![Foo](Sogn og Fjordane. NIFU FoU utgifter per sektor 1990_2013.png)</a>
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Sogn og Fjordane/Sogn og Fjordane Sysselsatte fordelt på utdanningsnivå (linjer).png">![Foo](Sogn og Fjordane Sysselsatte fordelt på utdanningsnivå (linjer).png)</a>
 

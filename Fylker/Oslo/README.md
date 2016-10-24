@@ -14,6 +14,20 @@ Tips: Klikk på figur for å åpne i full størrelse
 
 <a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Oslo/Oslo NFR og SF andel av totalt omsøkt eller innvilget beløp for nye prosjekter startet i året (linjer).png">![Foo](Oslo NFR og SF andel av totalt omsøkt eller innvilget beløp for nye prosjekter startet i året (linjer).png)</a>
 
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Oslo/Oslo Samlet bevilgning for nye nye prosjekter2010_2016.png">![Foo](Oslo Samlet bevilgning for nye nye prosjekter2010_2016.png)</a>
+
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Oslo/Oslo. Instituttsektor Største aktiviteter innvilget nye prosjekter2010_2015.png">![Foo](Oslo. Instituttsektor Største aktiviteter innvilget nye prosjekter2010_2015.png)</a>
+
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Oslo/Oslo. Næringsliv Største aktiviteter innvilget nye prosjekter2010_2015.png">![Foo](Oslo. Næringsliv Største aktiviteter innvilget nye prosjekter2010_2015.png)</a>
+
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Oslo/Oslo. UoH-sektor Største aktiviteter innvilget nye prosjekter2010_2015.png">![Foo](Oslo. UoH-sektor Største aktiviteter innvilget nye prosjekter2010_2015.png)</a>
+
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Oslo/Oslo. Øvrige Største aktiviteter innvilget nye prosjekter2010_2015.png">![Foo](Oslo. Øvrige Største aktiviteter innvilget nye prosjekter2010_2015.png)</a>
+
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Oslo/Oslo. NIFU FoU utgifter per sektor 1990_2013.png">![Foo](Oslo. NIFU FoU utgifter per sektor 1990_2013.png)</a>
+
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Oslo/Oslo. NIFU FoU årsverk1990_2013.png">![Foo](Oslo. NIFU FoU årsverk1990_2013.png)</a>
+
 <a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Oslo/Oslo NIFU FoU Årsverk og Beløp per Sektor (heatmap).png">![Foo](Oslo NIFU FoU Årsverk og Beløp per Sektor (heatmap).png)</a>
 
 <a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Oslo/Oslo NIFU FoU Årsverk og Beløp per Sektor (linjer).png">![Foo](Oslo NIFU FoU Årsverk og Beløp per Sektor (linjer).png)</a>
@@ -30,27 +44,17 @@ Tips: Klikk på figur for å åpne i full størrelse
 
 <a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Oslo/Oslo Bruttoprodukt (milliarder) (linjer).png">![Foo](Oslo Bruttoprodukt (milliarder) (linjer).png)</a>
 
-<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Oslo/Oslo Sysselsatte (tusen) (heatmap).png">![Foo](Oslo Sysselsatte (tusen) (heatmap).png)</a>
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Oslo/BIA Innvilget første halvår til aktive prosjekter (heatmap).png">![Foo](BIA Innvilget første halvår til aktive prosjekter (heatmap).png)</a>
 
-<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Oslo/Oslo Sysselsatte (tusen) (linjer).png">![Foo](Oslo Sysselsatte (tusen) (linjer).png)</a>
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Oslo/BIA Innvilget første halvår til aktive prosjekter (linjer).png">![Foo](BIA Innvilget første halvår til aktive prosjekter (linjer).png)</a>
 
-<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Oslo/Oslo Bruttoprodukt  sysselsatt (1000 kr) (heatmap).png">![Foo](Oslo Bruttoprodukt  sysselsatt (1000 kr) (heatmap).png)</a>
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Oslo/Oslo Bruttoprodukt per sysselsatt (1000 kr) (heatmap).png">![Foo](Oslo Bruttoprodukt per sysselsatt (1000 kr) (heatmap).png)</a>
 
-<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Oslo/Oslo Bruttoprodukt  sysselsatt (1000 kr) (linjer).png">![Foo](Oslo Bruttoprodukt  sysselsatt (1000 kr) (linjer).png)</a>
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Oslo/Oslo Bruttoprodukt per sysselsatt (1000 kr) (linjer).png">![Foo](Oslo Bruttoprodukt per sysselsatt (1000 kr) (linjer).png)</a>
 
-<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Oslo/Oslo Samlet bevilgning for nye nye prosjekter2010_2016.png">![Foo](Oslo Samlet bevilgning for nye nye prosjekter2010_2016.png)</a>
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Oslo/Oslo Sysselsatte fordelt på fagfelt (heatmap).png">![Foo](Oslo Sysselsatte fordelt på fagfelt (heatmap).png)</a>
 
-<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Oslo/Oslo. Instituttsektor Største aktiviteter innvilget nye prosjekter2010_2015.png">![Foo](Oslo. Instituttsektor Største aktiviteter innvilget nye prosjekter2010_2015.png)</a>
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Oslo/Oslo Sysselsatte fordelt på utdanningsnivå (heatmap).png">![Foo](Oslo Sysselsatte fordelt på utdanningsnivå (heatmap).png)</a>
 
-<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Oslo/Oslo. Næringsliv Største aktiviteter innvilget nye prosjekter2010_2015.png">![Foo](Oslo. Næringsliv Største aktiviteter innvilget nye prosjekter2010_2015.png)</a>
-
-<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Oslo/Oslo. UoH-sektor Største aktiviteter innvilget nye prosjekter2010_2015.png">![Foo](Oslo. UoH-sektor Største aktiviteter innvilget nye prosjekter2010_2015.png)</a>
-
-<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Oslo/Oslo. Øvrige Største aktiviteter innvilget nye prosjekter2010_2015.png">![Foo](Oslo. Øvrige Største aktiviteter innvilget nye prosjekter2010_2015.png)</a>
-
-<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Oslo/Oslo. NIFU FoU utgifter per sektor 1990_2013.png">![Foo](Oslo. NIFU FoU utgifter per sektor 1990_2013.png)</a>
-
-<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Oslo/Oslo. NIFU FoU årsverk1990_2013.png">![Foo](Oslo. NIFU FoU årsverk1990_2013.png)</a>
-
-<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Oslo/Oslo. NIFU FoU utgifter per sektor 1990_2013.png">![Foo](Oslo. NIFU FoU utgifter per sektor 1990_2013.png)</a>
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Oslo/Oslo Sysselsatte fordelt på utdanningsnivå (linjer).png">![Foo](Oslo Sysselsatte fordelt på utdanningsnivå (linjer).png)</a>
 

@@ -14,6 +14,20 @@ Tips: Klikk på figur for å åpne i full størrelse
 
 <a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Telemark/Telemark NFR og SF andel av totalt omsøkt eller innvilget beløp for nye prosjekter startet i året (linjer).png">![Foo](Telemark NFR og SF andel av totalt omsøkt eller innvilget beløp for nye prosjekter startet i året (linjer).png)</a>
 
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Telemark/Telemark Samlet bevilgning for nye nye prosjekter2010_2016.png">![Foo](Telemark Samlet bevilgning for nye nye prosjekter2010_2016.png)</a>
+
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Telemark/Telemark. Instituttsektor Største aktiviteter innvilget nye prosjekter2010_2015.png">![Foo](Telemark. Instituttsektor Største aktiviteter innvilget nye prosjekter2010_2015.png)</a>
+
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Telemark/Telemark. Næringsliv Største aktiviteter innvilget nye prosjekter2010_2015.png">![Foo](Telemark. Næringsliv Største aktiviteter innvilget nye prosjekter2010_2015.png)</a>
+
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Telemark/Telemark. UoH-sektor Største aktiviteter innvilget nye prosjekter2010_2015.png">![Foo](Telemark. UoH-sektor Største aktiviteter innvilget nye prosjekter2010_2015.png)</a>
+
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Telemark/Telemark. Øvrige Største aktiviteter innvilget nye prosjekter2010_2015.png">![Foo](Telemark. Øvrige Største aktiviteter innvilget nye prosjekter2010_2015.png)</a>
+
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Telemark/Telemark. NIFU FoU utgifter per sektor 1990_2013.png">![Foo](Telemark. NIFU FoU utgifter per sektor 1990_2013.png)</a>
+
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Telemark/Telemark. NIFU FoU årsverk1990_2013.png">![Foo](Telemark. NIFU FoU årsverk1990_2013.png)</a>
+
 <a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Telemark/Telemark NIFU FoU Årsverk og Beløp per Sektor (heatmap).png">![Foo](Telemark NIFU FoU Årsverk og Beløp per Sektor (heatmap).png)</a>
 
 <a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Telemark/Telemark NIFU FoU Årsverk og Beløp per Sektor (linjer).png">![Foo](Telemark NIFU FoU Årsverk og Beløp per Sektor (linjer).png)</a>
@@ -30,23 +44,17 @@ Tips: Klikk på figur for å åpne i full størrelse
 
 <a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Telemark/Telemark Bruttoprodukt (milliarder) (linjer).png">![Foo](Telemark Bruttoprodukt (milliarder) (linjer).png)</a>
 
-<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Telemark/Telemark Sysselsatte (tusen) (heatmap).png">![Foo](Telemark Sysselsatte (tusen) (heatmap).png)</a>
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Telemark/BIA Innvilget første halvår til aktive prosjekter (heatmap).png">![Foo](BIA Innvilget første halvår til aktive prosjekter (heatmap).png)</a>
 
-<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Telemark/Telemark Sysselsatte (tusen) (linjer).png">![Foo](Telemark Sysselsatte (tusen) (linjer).png)</a>
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Telemark/BIA Innvilget første halvår til aktive prosjekter (linjer).png">![Foo](BIA Innvilget første halvår til aktive prosjekter (linjer).png)</a>
 
-<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Telemark/Telemark Samlet bevilgning for nye nye prosjekter2010_2016.png">![Foo](Telemark Samlet bevilgning for nye nye prosjekter2010_2016.png)</a>
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Telemark/Telemark Bruttoprodukt per sysselsatt (1000 kr) (heatmap).png">![Foo](Telemark Bruttoprodukt per sysselsatt (1000 kr) (heatmap).png)</a>
 
-<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Telemark/Telemark. Instituttsektor Største aktiviteter innvilget nye prosjekter2010_2015.png">![Foo](Telemark. Instituttsektor Største aktiviteter innvilget nye prosjekter2010_2015.png)</a>
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Telemark/Telemark Bruttoprodukt per sysselsatt (1000 kr) (linjer).png">![Foo](Telemark Bruttoprodukt per sysselsatt (1000 kr) (linjer).png)</a>
 
-<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Telemark/Telemark. Næringsliv Største aktiviteter innvilget nye prosjekter2010_2015.png">![Foo](Telemark. Næringsliv Største aktiviteter innvilget nye prosjekter2010_2015.png)</a>
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Telemark/Telemark Sysselsatte fordelt på fagfelt (heatmap).png">![Foo](Telemark Sysselsatte fordelt på fagfelt (heatmap).png)</a>
 
-<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Telemark/Telemark. UoH-sektor Største aktiviteter innvilget nye prosjekter2010_2015.png">![Foo](Telemark. UoH-sektor Største aktiviteter innvilget nye prosjekter2010_2015.png)</a>
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Telemark/Telemark Sysselsatte fordelt på utdanningsnivå (heatmap).png">![Foo](Telemark Sysselsatte fordelt på utdanningsnivå (heatmap).png)</a>
 
-<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Telemark/Telemark. Øvrige Største aktiviteter innvilget nye prosjekter2010_2015.png">![Foo](Telemark. Øvrige Største aktiviteter innvilget nye prosjekter2010_2015.png)</a>
-
-<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Telemark/Telemark. NIFU FoU utgifter per sektor 1990_2013.png">![Foo](Telemark. NIFU FoU utgifter per sektor 1990_2013.png)</a>
-
-<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Telemark/Telemark. NIFU FoU årsverk1990_2013.png">![Foo](Telemark. NIFU FoU årsverk1990_2013.png)</a>
-
-<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Telemark/Telemark. NIFU FoU utgifter per sektor 1990_2013.png">![Foo](Telemark. NIFU FoU utgifter per sektor 1990_2013.png)</a>
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Telemark/Telemark Sysselsatte fordelt på utdanningsnivå (linjer).png">![Foo](Telemark Sysselsatte fordelt på utdanningsnivå (linjer).png)</a>
 

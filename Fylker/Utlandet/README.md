@@ -10,7 +10,7 @@ Tips: Klikk på figur for å åpne i full størrelse
 
 <a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Utlandet/Utlandet Bruttoprodukt (milliarder) (linjer).png">![Foo](Utlandet Bruttoprodukt (milliarder) (linjer).png)</a>
 
-<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Utlandet/Utlandet Sysselsatte (tusen) (heatmap).png">![Foo](Utlandet Sysselsatte (tusen) (heatmap).png)</a>
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Utlandet/BIA Innvilget første halvår til aktive prosjekter (heatmap).png">![Foo](BIA Innvilget første halvår til aktive prosjekter (heatmap).png)</a>
 
-<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Utlandet/Utlandet Sysselsatte (tusen) (linjer).png">![Foo](Utlandet Sysselsatte (tusen) (linjer).png)</a>
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Utlandet/BIA Innvilget første halvår til aktive prosjekter (linjer).png">![Foo](BIA Innvilget første halvår til aktive prosjekter (linjer).png)</a>
 

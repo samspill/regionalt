@@ -42,6 +42,12 @@
 
 [Østfold](https://github.com/samspill/regionalt/tree/master/Fylker/Østfold)
 
+[Agder counties](https://github.com/samspill/regionalt/tree/master/Fylker/Agder counties)
+
+[Sør-Trøndelag](https://github.com/samspill/regionalt/tree/master/Fylker/Sør-Trøndelag)
+
+[Nord-Trøndelag](https://github.com/samspill/regionalt/tree/master/Fylker/Nord-Trøndelag)
+
 [Agderfylkene](https://github.com/samspill/regionalt/tree/master/Fylker/Agderfylkene)
 
 [Havområder](https://github.com/samspill/regionalt/tree/master/Fylker/Havområder)
@@ -53,10 +59,4 @@
 [Kontinentalsokkelen](https://github.com/samspill/regionalt/tree/master/Fylker/Kontinentalsokkelen)
 
 [Utlandet](https://github.com/samspill/regionalt/tree/master/Fylker/Utlandet)
-
-[Agder counties](https://github.com/samspill/regionalt/tree/master/Fylker/Agder counties)
-
-[Sør-Trøndelag](https://github.com/samspill/regionalt/tree/master/Fylker/Sør-Trøndelag)
-
-[Nord-Trøndelag](https://github.com/samspill/regionalt/tree/master/Fylker/Nord-Trøndelag)
 

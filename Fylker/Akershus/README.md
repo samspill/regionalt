@@ -14,6 +14,20 @@ Tips: Klikk på figur for å åpne i full størrelse
 
 <a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Akershus/Akershus NFR og SF andel av totalt omsøkt eller innvilget beløp for nye prosjekter startet i året (linjer).png">![Foo](Akershus NFR og SF andel av totalt omsøkt eller innvilget beløp for nye prosjekter startet i året (linjer).png)</a>
 
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Akershus/Akershus Samlet bevilgning for nye nye prosjekter2010_2016.png">![Foo](Akershus Samlet bevilgning for nye nye prosjekter2010_2016.png)</a>
+
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Akershus/Akershus. Instituttsektor Største aktiviteter innvilget nye prosjekter2010_2015.png">![Foo](Akershus. Instituttsektor Største aktiviteter innvilget nye prosjekter2010_2015.png)</a>
+
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Akershus/Akershus. Næringsliv Største aktiviteter innvilget nye prosjekter2010_2015.png">![Foo](Akershus. Næringsliv Største aktiviteter innvilget nye prosjekter2010_2015.png)</a>
+
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Akershus/Akershus. UoH-sektor Største aktiviteter innvilget nye prosjekter2010_2015.png">![Foo](Akershus. UoH-sektor Største aktiviteter innvilget nye prosjekter2010_2015.png)</a>
+
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Akershus/Akershus. Øvrige Største aktiviteter innvilget nye prosjekter2010_2015.png">![Foo](Akershus. Øvrige Største aktiviteter innvilget nye prosjekter2010_2015.png)</a>
+
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Akershus/Akershus. NIFU FoU utgifter per sektor 1990_2013.png">![Foo](Akershus. NIFU FoU utgifter per sektor 1990_2013.png)</a>
+
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Akershus/Akershus. NIFU FoU årsverk1990_2013.png">![Foo](Akershus. NIFU FoU årsverk1990_2013.png)</a>
+
 <a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Akershus/Akershus NIFU FoU Årsverk og Beløp per Sektor (heatmap).png">![Foo](Akershus NIFU FoU Årsverk og Beløp per Sektor (heatmap).png)</a>
 
 <a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Akershus/Akershus NIFU FoU Årsverk og Beløp per Sektor (linjer).png">![Foo](Akershus NIFU FoU Årsverk og Beløp per Sektor (linjer).png)</a>
@@ -30,27 +44,17 @@ Tips: Klikk på figur for å åpne i full størrelse
 
 <a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Akershus/Akershus Bruttoprodukt (milliarder) (linjer).png">![Foo](Akershus Bruttoprodukt (milliarder) (linjer).png)</a>
 
-<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Akershus/Akershus Sysselsatte (tusen) (heatmap).png">![Foo](Akershus Sysselsatte (tusen) (heatmap).png)</a>
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Akershus/BIA Innvilget første halvår til aktive prosjekter (heatmap).png">![Foo](BIA Innvilget første halvår til aktive prosjekter (heatmap).png)</a>
 
-<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Akershus/Akershus Sysselsatte (tusen) (linjer).png">![Foo](Akershus Sysselsatte (tusen) (linjer).png)</a>
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Akershus/BIA Innvilget første halvår til aktive prosjekter (linjer).png">![Foo](BIA Innvilget første halvår til aktive prosjekter (linjer).png)</a>
 
-<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Akershus/Akershus Bruttoprodukt  sysselsatt (1000 kr) (heatmap).png">![Foo](Akershus Bruttoprodukt  sysselsatt (1000 kr) (heatmap).png)</a>
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Akershus/Akershus Bruttoprodukt per sysselsatt (1000 kr) (heatmap).png">![Foo](Akershus Bruttoprodukt per sysselsatt (1000 kr) (heatmap).png)</a>
 
-<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Akershus/Akershus Bruttoprodukt  sysselsatt (1000 kr) (linjer).png">![Foo](Akershus Bruttoprodukt  sysselsatt (1000 kr) (linjer).png)</a>
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Akershus/Akershus Bruttoprodukt per sysselsatt (1000 kr) (linjer).png">![Foo](Akershus Bruttoprodukt per sysselsatt (1000 kr) (linjer).png)</a>
 
-<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Akershus/Akershus Samlet bevilgning for nye nye prosjekter2010_2016.png">![Foo](Akershus Samlet bevilgning for nye nye prosjekter2010_2016.png)</a>
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Akershus/Akershus Sysselsatte fordelt på fagfelt (heatmap).png">![Foo](Akershus Sysselsatte fordelt på fagfelt (heatmap).png)</a>
 
-<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Akershus/Akershus. Instituttsektor Største aktiviteter innvilget nye prosjekter2010_2015.png">![Foo](Akershus. Instituttsektor Største aktiviteter innvilget nye prosjekter2010_2015.png)</a>
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Akershus/Akershus Sysselsatte fordelt på utdanningsnivå (heatmap).png">![Foo](Akershus Sysselsatte fordelt på utdanningsnivå (heatmap).png)</a>
 
-<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Akershus/Akershus. Næringsliv Største aktiviteter innvilget nye prosjekter2010_2015.png">![Foo](Akershus. Næringsliv Største aktiviteter innvilget nye prosjekter2010_2015.png)</a>
-
-<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Akershus/Akershus. UoH-sektor Største aktiviteter innvilget nye prosjekter2010_2015.png">![Foo](Akershus. UoH-sektor Største aktiviteter innvilget nye prosjekter2010_2015.png)</a>
-
-<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Akershus/Akershus. Øvrige Største aktiviteter innvilget nye prosjekter2010_2015.png">![Foo](Akershus. Øvrige Største aktiviteter innvilget nye prosjekter2010_2015.png)</a>
-
-<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Akershus/Akershus. NIFU FoU utgifter per sektor 1990_2013.png">![Foo](Akershus. NIFU FoU utgifter per sektor 1990_2013.png)</a>
-
-<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Akershus/Akershus. NIFU FoU årsverk1990_2013.png">![Foo](Akershus. NIFU FoU årsverk1990_2013.png)</a>
-
-<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Akershus/Akershus. NIFU FoU utgifter per sektor 1990_2013.png">![Foo](Akershus. NIFU FoU utgifter per sektor 1990_2013.png)</a>
+<a href="https://raw.githubusercontent.com/samspill/regionalt/master/Fylker/Akershus/Akershus Sysselsatte fordelt på utdanningsnivå (linjer).png">![Foo](Akershus Sysselsatte fordelt på utdanningsnivå (linjer).png)</a>
 
